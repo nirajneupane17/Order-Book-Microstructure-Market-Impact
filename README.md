@@ -19,6 +19,10 @@ benchmarks, Almgren-Chriss optimal execution, and full TCA.*
 
 ---
 
+![Order Book Microstructure & Market Impact](results/dashboard_final_pro.png)
+
+---
+
 ## What Is This Project?
 
 Market microstructure is the study of how prices actually form — tick
