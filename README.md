@@ -2,7 +2,7 @@
 
 # Order Book Microstructure & Market Impact
 
-### Quant Trading Projects — Series 4 of 20
+### Quant Trading Projects: Series 4 of 20
 
 *A complete institutional-grade market microstructure framework:
 bid-ask spread decomposition, Kyle's lambda price impact,
@@ -25,7 +25,7 @@ benchmarks, Almgren-Chriss optimal execution, and full TCA.*
 
 ## What Is This Project?
 
-Market microstructure is the study of how prices actually form — tick
+Market microstructure is the study of how prices actually form: tick
 by tick, trade by trade, bid and ask. Every institutional investor,
 prop trading firm, and hedge fund cares about microstructure because
 it determines the real cost of executing a strategy.
@@ -41,10 +41,10 @@ stack from simulated tick data to optimal execution scheduling.
 
 | Audience | What They Get |
 |:---|:---|
-| **Quant Finance Students** | Microstructure appears in every HFT and market-making interview — build every concept from scratch |
-| **Quant Researchers** | OFI and Kyle's lambda are live intraday alpha signals — understand their construction |
-| **Prop Traders / HFT** | TCA, VWAP, TWAP, and Almgren-Chriss are daily workflow tools — reference implementations |
-| **Hedge Fund Analysts** | Market impact modeling determines real strategy capacity — critical for AUM scaling |
+| **Quant Finance Students** | Microstructure appears in every HFT and market-making interview build every concept from scratch |
+| **Quant Researchers** | OFI and Kyle's lambda are live intraday alpha signals understand their construction |
+| **Prop Traders / HFT** | TCA, VWAP, TWAP, and Almgren-Chriss are daily workflow tools reference implementations |
+| **Hedge Fund Analysts** | Market impact modeling determines real strategy capacity critical for AUM scaling |
 
 ---
 
@@ -186,7 +186,7 @@ The AC model finds the exact schedule that minimises the sum of both costs
 for a given risk aversion parameter. This is live at every major institution.
 
 **5. Implementation shortfall is the honest metric.**
-VWAP and TWAP are benchmarks — they tell you how you traded relative to the
+VWAP and TWAP are benchmarks they tell you how you traded relative to the
 market. Implementation shortfall tells you how much your paper profit shrank
 due to execution. IS is what the portfolio manager sees when they compare
 the signal's backtest return to what actually landed in the account.
@@ -257,8 +257,8 @@ Order-Book-Microstructure-Market-Impact/
 <div align="center">
 
 **Niraj Neupane**
-Quantitative Researcher · Financial Economist
-Chartered Accountant (ICAI) · FRM Candidate
+Quantitative Developer · Financial Economist
+Chartered Accountant (ICAI)
 
 [github.com/nirajneupane17](https://github.com/nirajneupane17)
 
